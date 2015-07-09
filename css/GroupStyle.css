@@ -1,0 +1,13 @@
+main {
+    color: gray;
+    font-family: Helvetica, sans-serif;
+    border: darkgray 10px solid;
+    margin: 0 auto;
+    padding: 10px;
+}
+section {
+    padding: 20px 60px 60px 60px;
+}
+footer {
+    font-size: 10px;
+}
