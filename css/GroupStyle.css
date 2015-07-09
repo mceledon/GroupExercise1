@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
     background-image: url(../img/933376-grizzly-bear.jpg);
     width: 100%;
@@ -20,3 +21,18 @@ header div p {
     font-family: sans-serif;
     color: white;
 }
+=======
+main {
+    color: gray;
+    font-family: Helvetica, sans-serif;
+    border: darkgray 10px solid;
+    margin: 0 auto;
+    padding: 10px;
+}
+section {
+    padding: 20px 60px 60px 60px;
+}
+footer {
+    font-size: 10px;
+}
+>>>>>>> origin/master
